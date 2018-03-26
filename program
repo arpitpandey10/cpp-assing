@@ -2,4 +2,4 @@
 #include<conio.h>
 void display(int n)
 {
-cout<<"\t\t\t\t ----tic tac toe----"  
+cout<<"\t\t\t\t ----tic tac toe  
